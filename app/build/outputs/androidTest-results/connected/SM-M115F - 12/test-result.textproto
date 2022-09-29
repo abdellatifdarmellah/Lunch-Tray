@@ -1,0 +1,484 @@
+# 2022-09-29T13:19:25.173Z:
+test_suite_meta_data {
+  scheduled_test_case_count: 9
+}
+test_status: PASSED
+test_result {
+  test_case {
+    test_class: "NavigationTests"
+    test_package: "com.example.lunchtray"
+    test_method: "navigate_to_start_order_from_checkout"
+    start_time {
+      seconds: 1664457552
+      nanos: 627000000
+    }
+    end_time {
+      seconds: 1664457554
+      nanos: 161000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "/home/daab/AndroidStudioProjects/android-basics-kotlin-lunch-tray-app-main/app/build/outputs/androidTest-results/connected/SM-M115F - 12/logcat-com.example.lunchtray.NavigationTests-navigate_to_start_order_from_checkout.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "/home/daab/AndroidStudioProjects/android-basics-kotlin-lunch-tray-app-main/app/build/outputs/androidTest-results/connected/SM-M115F - 12/device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/home/daab/AndroidStudioProjects/android-basics-kotlin-lunch-tray-app-main/app/build/outputs/androidTest-results/connected/SM-M115F - 12/meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/home/daab/AndroidStudioProjects/android-basics-kotlin-lunch-tray-app-main/app/build/outputs/androidTest-results/connected/SM-M115F - 12/cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "NavigationTests"
+    test_package: "com.example.lunchtray"
+    test_method: "navigate_to_start_order_from_entree_menu"
+    start_time {
+      seconds: 1664457554
+      nanos: 626000000
+    }
+    end_time {
+      seconds: 1664457555
+      nanos: 433000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "/home/daab/AndroidStudioProjects/android-basics-kotlin-lunch-tray-app-main/app/build/outputs/androidTest-results/connected/SM-M115F - 12/logcat-com.example.lunchtray.NavigationTests-navigate_to_start_order_from_entree_menu.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "/home/daab/AndroidStudioProjects/android-basics-kotlin-lunch-tray-app-main/app/build/outputs/androidTest-results/connected/SM-M115F - 12/device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/home/daab/AndroidStudioProjects/android-basics-kotlin-lunch-tray-app-main/app/build/outputs/androidTest-results/connected/SM-M115F - 12/meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/home/daab/AndroidStudioProjects/android-basics-kotlin-lunch-tray-app-main/app/build/outputs/androidTest-results/connected/SM-M115F - 12/cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "NavigationTests"
+    test_package: "com.example.lunchtray"
+    test_method: "navigate_to_checkout_from_accompaniment_menu"
+    start_time {
+      seconds: 1664457555
+      nanos: 838000000
+    }
+    end_time {
+      seconds: 1664457556
+      nanos: 593000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "/home/daab/AndroidStudioProjects/android-basics-kotlin-lunch-tray-app-main/app/build/outputs/androidTest-results/connected/SM-M115F - 12/logcat-com.example.lunchtray.NavigationTests-navigate_to_checkout_from_accompaniment_menu.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "/home/daab/AndroidStudioProjects/android-basics-kotlin-lunch-tray-app-main/app/build/outputs/androidTest-results/connected/SM-M115F - 12/device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/home/daab/AndroidStudioProjects/android-basics-kotlin-lunch-tray-app-main/app/build/outputs/androidTest-results/connected/SM-M115F - 12/meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/home/daab/AndroidStudioProjects/android-basics-kotlin-lunch-tray-app-main/app/build/outputs/androidTest-results/connected/SM-M115F - 12/cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "NavigationTests"
+    test_package: "com.example.lunchtray"
+    test_method: "navigate_to_entree_menu_from_start_order"
+    start_time {
+      seconds: 1664457557
+      nanos: 23000000
+    }
+    end_time {
+      seconds: 1664457557
+      nanos: 595000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "/home/daab/AndroidStudioProjects/android-basics-kotlin-lunch-tray-app-main/app/build/outputs/androidTest-results/connected/SM-M115F - 12/logcat-com.example.lunchtray.NavigationTests-navigate_to_entree_menu_from_start_order.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "/home/daab/AndroidStudioProjects/android-basics-kotlin-lunch-tray-app-main/app/build/outputs/androidTest-results/connected/SM-M115F - 12/device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/home/daab/AndroidStudioProjects/android-basics-kotlin-lunch-tray-app-main/app/build/outputs/androidTest-results/connected/SM-M115F - 12/meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/home/daab/AndroidStudioProjects/android-basics-kotlin-lunch-tray-app-main/app/build/outputs/androidTest-results/connected/SM-M115F - 12/cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "NavigationTests"
+    test_package: "com.example.lunchtray"
+    test_method: "navigate_to_start_order_from_checkout_via_submit"
+    start_time {
+      seconds: 1664457558
+      nanos: 23000000
+    }
+    end_time {
+      seconds: 1664457558
+      nanos: 903000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "/home/daab/AndroidStudioProjects/android-basics-kotlin-lunch-tray-app-main/app/build/outputs/androidTest-results/connected/SM-M115F - 12/logcat-com.example.lunchtray.NavigationTests-navigate_to_start_order_from_checkout_via_submit.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "/home/daab/AndroidStudioProjects/android-basics-kotlin-lunch-tray-app-main/app/build/outputs/androidTest-results/connected/SM-M115F - 12/device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/home/daab/AndroidStudioProjects/android-basics-kotlin-lunch-tray-app-main/app/build/outputs/androidTest-results/connected/SM-M115F - 12/meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/home/daab/AndroidStudioProjects/android-basics-kotlin-lunch-tray-app-main/app/build/outputs/androidTest-results/connected/SM-M115F - 12/cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "NavigationTests"
+    test_package: "com.example.lunchtray"
+    test_method: "navigate_to_start_order_from_accompaniment_menu"
+    start_time {
+      seconds: 1664457559
+      nanos: 306000000
+    }
+    end_time {
+      seconds: 1664457560
+      nanos: 9000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "/home/daab/AndroidStudioProjects/android-basics-kotlin-lunch-tray-app-main/app/build/outputs/androidTest-results/connected/SM-M115F - 12/logcat-com.example.lunchtray.NavigationTests-navigate_to_start_order_from_accompaniment_menu.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "/home/daab/AndroidStudioProjects/android-basics-kotlin-lunch-tray-app-main/app/build/outputs/androidTest-results/connected/SM-M115F - 12/device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/home/daab/AndroidStudioProjects/android-basics-kotlin-lunch-tray-app-main/app/build/outputs/androidTest-results/connected/SM-M115F - 12/meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/home/daab/AndroidStudioProjects/android-basics-kotlin-lunch-tray-app-main/app/build/outputs/androidTest-results/connected/SM-M115F - 12/cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "NavigationTests"
+    test_package: "com.example.lunchtray"
+    test_method: "navigate_to_accompaniment_menu_from_side_menu"
+    start_time {
+      seconds: 1664457560
+      nanos: 415000000
+    }
+    end_time {
+      seconds: 1664457561
+      nanos: 146000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "/home/daab/AndroidStudioProjects/android-basics-kotlin-lunch-tray-app-main/app/build/outputs/androidTest-results/connected/SM-M115F - 12/logcat-com.example.lunchtray.NavigationTests-navigate_to_accompaniment_menu_from_side_menu.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "/home/daab/AndroidStudioProjects/android-basics-kotlin-lunch-tray-app-main/app/build/outputs/androidTest-results/connected/SM-M115F - 12/device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/home/daab/AndroidStudioProjects/android-basics-kotlin-lunch-tray-app-main/app/build/outputs/androidTest-results/connected/SM-M115F - 12/meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/home/daab/AndroidStudioProjects/android-basics-kotlin-lunch-tray-app-main/app/build/outputs/androidTest-results/connected/SM-M115F - 12/cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "NavigationTests"
+    test_package: "com.example.lunchtray"
+    test_method: "navigate_to_start_order_from_side_menu"
+    start_time {
+      seconds: 1664457561
+      nanos: 597000000
+    }
+    end_time {
+      seconds: 1664457562
+      nanos: 303000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "/home/daab/AndroidStudioProjects/android-basics-kotlin-lunch-tray-app-main/app/build/outputs/androidTest-results/connected/SM-M115F - 12/logcat-com.example.lunchtray.NavigationTests-navigate_to_start_order_from_side_menu.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "/home/daab/AndroidStudioProjects/android-basics-kotlin-lunch-tray-app-main/app/build/outputs/androidTest-results/connected/SM-M115F - 12/device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/home/daab/AndroidStudioProjects/android-basics-kotlin-lunch-tray-app-main/app/build/outputs/androidTest-results/connected/SM-M115F - 12/meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/home/daab/AndroidStudioProjects/android-basics-kotlin-lunch-tray-app-main/app/build/outputs/androidTest-results/connected/SM-M115F - 12/cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "NavigationTests"
+    test_package: "com.example.lunchtray"
+    test_method: "navigate_to_side_menu_from_entree_menu"
+    start_time {
+      seconds: 1664457562
+      nanos: 732000000
+    }
+    end_time {
+      seconds: 1664457563
+      nanos: 438000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "/home/daab/AndroidStudioProjects/android-basics-kotlin-lunch-tray-app-main/app/build/outputs/androidTest-results/connected/SM-M115F - 12/logcat-com.example.lunchtray.NavigationTests-navigate_to_side_menu_from_entree_menu.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "/home/daab/AndroidStudioProjects/android-basics-kotlin-lunch-tray-app-main/app/build/outputs/androidTest-results/connected/SM-M115F - 12/device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/home/daab/AndroidStudioProjects/android-basics-kotlin-lunch-tray-app-main/app/build/outputs/androidTest-results/connected/SM-M115F - 12/meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/home/daab/AndroidStudioProjects/android-basics-kotlin-lunch-tray-app-main/app/build/outputs/androidTest-results/connected/SM-M115F - 12/cpuinfo"
+    }
+  }
+}
+output_artifact {
+  label {
+    label: "test-results.log"
+    namespace: "com.google.testing.platform.runtime.android.driver.AndroidInstrumentationDriver"
+  }
+  source_path {
+    path: "/home/daab/AndroidStudioProjects/android-basics-kotlin-lunch-tray-app-main/app/build/outputs/androidTest-results/connected/SM-M115F - 12/testlog/test-results.log"
+  }
+  type: TEST_DATA
+  mime_type: "text/plain"
+}
